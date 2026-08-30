@@ -370,3 +370,30 @@ rework, and failure analysis.
 * **External Failure Costs:** Consequences of quality issues
 identified post-delivery, encompassing repairs, warranty
 claims, returns, and potential damage to reputation.
+
+```txt
+First thing is that in the project environment, typically it's not easy to list down each of the cost
+individually that you make a register or you make a log of each of these costs.
+It's difficult, but what you can typically do on any.
+Project is, let's say if you have a problem or a nonconformity, and then you have a contractor or
+your own company to do that correction, and then the time and money spent on that, that's very easy
+to record that.
+How much loss has happened because of internal failure or even for the external failure?
+It's difficult sometimes to keep a log of how much money you spend on prevention and appraisal.
+It might be possible that on your project, the people who are involved in prevention and appraisal,
+the salary of that might be the cost of prevention or appraisal.
+Whatever scenario might be.
+So there are some cases where you can record these costs.
+There are many cases where you will not be able to record each and every cost.
+So what you might want to do is understand that internal and external failure are bad.
+So you need to avoid them, particularly the external failure.
+And if you spend a little bit more money on prevention.
+That will give you a good return in reducing your internal and external failure.
+Generally, you should be spending more money on prevention and appraisal, but out of these two, also
+spend more money on prevention so that the defect doesn't happen in the beginning.
+So you take all the necessary steps from the beginning.
+Have the right processes systems in place, have the right people in place, provide the right training
+to them.
+That way you can prevent the bigger losses because of the cost of quality.
+```
+
