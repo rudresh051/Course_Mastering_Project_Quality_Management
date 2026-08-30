@@ -201,3 +201,172 @@ but the intention of check sheet is to collect data which could be analyzed late
   * Used to ensure that all steps or items are completed or checked.
   * Not typically used for data analysis or trend identification.
 
+## 4i Methods - Cost of Quality
+
+## Cost of Quality
+
+* The Cost of Quality (COQ) methodology is a
+strategic approach that seeks to determine the
+most effective balance between investments in
+quality prevention and appraisal in order to reduce
+defects and failures.
+* At its core, COQ categorizes costs into four main
+groups: Prevention, Appraisal, Internal Failure, and
+External Failure.
+* By effectively understanding and managing these
+costs, organizations can achieve better compliance
+with quality standards and ultimately enhance
+project outcomes.
+
+```txt
+The next method in this list is the cost of quality.
+Now the concept of cost of quality is that it gives us a strategic approach to seek a balance between
+the quality cost components.
+
+So there are four broad components of the cost of quality, which are the prevention cost, appraisal
+costs, internal failure and external failure costs.
+So when you want to achieve quality, there are four ways you can spend money on that to achieve quality
+prevention, appraisal, internal failure and external failure.
+Having a good understanding of these costs will help you determine that where you should be putting
+more effort on.
+```
+
+### 1. Prevention Cost
+
+* **Investing in Proactive Quality Measures**
+  * Prevention costs are primarily incurred to
+proactively eliminate potential defects and prevent
+failures from occurring within the product or
+service.
+  * These costs are directly associated with designing,
+implementing, and consistently maintaining an
+effective quality management system.
+  * The primary goal of incurring prevention costs is to
+avoid quality-related problems from the outset,
+ensuring that the project starts on a strong
+foundation of quality adherence.
+
+**Examples  of prevention cost**
+
+* **Product or Service Requirements:** It involves establishing
+detailed and clear specifications for incoming materials,
+processes, finished products, and services to ensure they
+meet the desired quality standards.
+* **Quality Planning:** This entails the creation and continuous
+updating of plans dedicated to quality, reliability,
+operations, production, and thorough inspection
+processes.
+* **Quality Assurance:** This involves setting up and maintaining
+a robust quality system that ensures consistent delivery of
+quality across all project phases.
+* **Training:** Investing in training programs' development,
+preparation, and upkeep ensures that all project members
+are well-equipped to maintain and uphold quality
+standards.
+
+### 2. **Appraisal Cost**
+
+**Ensuring Adherence to Quality Standards**  
+
+* Appraisal costs are dedicated to determining the
+degree to which the project conforms to
+established quality requirements.
+* These costs are associated with measuring,
+monitoring, and evaluating various quality-related
+activities throughout the project lifecycle.
+* Ensuring that purchased materials and in-house
+processes align with predetermined specifications
+is a cornerstone of appraisal costs.
+
+**Example of Appraisal Cost**  
+
+* **Verification:** This process involves thoroughly
+checking incoming materials, setting up processes,
+and evaluating products against the mutually
+agreed-upon specifications.
+* **Quality Audits:** These are systematic reviews that
+confirm the proper functioning of the quality
+system, ensuring it meets internal and external
+standards.
+* **Supplier Rating:** It's a process of assessing and
+approving suppliers of products and services to
+ensure they consistently meet or exceed quality
+expectations.
+
+### 3. Internal Failure Cost
+
+**Addressing Quality Issues In-House**  
+
+* Internal failure costs emerge when certain
+processes or products don't meet the designated
+quality standards before reaching the customer.
+* These costs reflect the inefficiencies and
+inaccuracies that arise within the project
+boundaries and require immediate rectification.
+* Addressing these costs promptly can prevent
+potential escalations and larger problems down
+the line.
+
+**Examples of Internal Cost**  
+
+* **Waste**: This encompasses unnecessary work or
+stock held due to errors, poor organization, or
+miscommunication within the project.
+* **Scrap**: Represents products or materials found to
+be defective and cannot be repaired, used, or sold.
+* **Rework or Rectification:** This involves correcting
+material defects or errors identified during project
+execution.
+* **Failure Analysis:** A critical activity that pinpoints
+the root causes of product or service failures,
+enabling better decision-making and preventative
+action.
+
+### 4. External Failure Cost
+
+**Addressing Post-Delivery Quality Issues**  
+
+* External failure costs are consequences of
+quality issues discovered after the product or
+service has been delivered to the customer.
+* These are some of the most impactful costs as
+they directly affect customer satisfaction,
+loyalty, and the organization's reputation.
+* Swift and effective management of these costs
+is essential to maintain trust and confidence
+among stakeholders.
+
+**Examples of Exteranl Failure cost**  
+
+* **Repairs and Servicing:** Costs related to fixing returned
+products or re-performing services post-delivery.
+* **Warranty Claims:** Costs incurred when products fail or
+services need to be re-performed under a guarantee.
+* **Complaints:** Expenses associated with handling and
+resolving customer complaints regarding product or
+service quality.
+* **Returns:** Costs for managing and investigating rejected
+or recalled products, including transportation expenses.
+* **Reputation:** Potentially immeasurable costs where
+public perception and brand reputation can be
+negatively impacted due to quality issues.
+
+> Now, we have talked about these four types of cost of quality prevention appraisal, internal failure and external failure. Now what do we do?  
+
+## Cost of Quality Summary
+
+Cost of Quality Considerations:  
+
+* **Prevention Costs**: Investments made to ensure defects
+are avoided, covering aspects like quality planning,
+assurance, and training.
+* **Appraisal Costs:** Expenses related to measuring and
+verifying that products and services meet quality
+standards, such as verification, quality audits, and
+supplier assessments.
+* **Internal Failure Costs:** Costs arising from quality issues
+identified before reaching the customer, including waste,
+rework, and failure analysis.
+* **External Failure Costs:** Consequences of quality issues
+identified post-delivery, encompassing repairs, warranty
+claims, returns, and potential damage to reputation.
