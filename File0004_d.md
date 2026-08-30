@@ -361,3 +361,65 @@ This is just a starting point to create discussion and evaluate that what all po
 have contributed to the problem.
 So this was a fishbone diagram or the cause and effect diagram or the Ishikawa diagram.
 ```
+
+## 4t Artifacts - Flow chart
+
+### Flow Chart - Introduction
+
+* **Definition**: A Flow Chart is a graphical
+representation of a process, illustrating the
+sequence of steps from start to finish.
+* **Purpose**: To provide a clear and easy-to-
+understand overview of a process, helping
+identify inefficiencies and opportunities for
+improvement.
+* **Application**: Used in various fields, including
+project management, software development,
+and business process modelling.
+
+```txt
+In many organizations.
+They have replaced their written procedures with the flow chart.
+
+So instead of giving a written procedure which says that we will be doing this, we will be doing that.
+They have changed that to the flow chart because flow charts are easy to understand.
+
+Personally, whenever I have to deal with a new process, my preference would be to draw a quick sketch
+of the flow chart that how those things are being performed, especially when I'm doing audit,
+```
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+
+> There are various tools which can make a nice presentable flow charts.
+> But in most of the cases a handwritten one should be good enough.
+
+### Benefits and Best Practices
+
+* Benefits:
+  * Enhances understanding of complex processes.
+  * Aids in identifying bottlenecks and redundant steps.
+  * Facilitates communication and documentation of
+processes.
+
+* Best Practices:
+  * Keep the design simple and easy to follow.
+  * Use consistent symbols and terminology.
+  * Involve team members who are part of the process in creating and reviewing the flow chart.
+
+## 4u Artifacts - Histogram
+
+### Introduction to Histogram
+
+* Definition: A Histogram is a type of bar chart
+that represents the distribution of numerical
+data.
+* Purpose: To visually summarize the frequency
+distribution of a data set, showing the
+number of data points that fall within a range
+of values (bins).
+* Application: Commonly used in quality
+management, statistics, and data analysis to
+identify patterns or trends in data.
+
