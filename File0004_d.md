@@ -76,3 +76,60 @@ proactive approach to risk management.
 * **Documentation for Future Projects:** Serves as a
 valuable reference for future project planning and
 risk management.
+
+## 4p Artifacts - Project Quality Management Plan
+
+```txt
+Now coming to the next artifact, which comes under the planning part.
+Planning artifacts, which is the quality management plan.
+
+There are so many other plans here as a part of artifacts.
+As you could see, the change control plan, the cost management plan, the procurement management plan,
+
+and so on, what you would be interested as a project quality manager would be the quality management
+plan.
+```
+
+### Introduction to Quality Management Plan
+
+* **Definition**: A Project Quality Plan is a
+document that outlines the quality standards,
+objectives, and criteria for a project.
+* **Purpose:** To ensure the project meets its
+defined quality benchmarks and stakeholder
+expectations.
+* **Scope:** Encompasses quality control, quality
+assurance, and continuous improvement
+processes throughout the project lifecycle.
+
+### Key Components of a Project Quality Plan
+
+* **Quality Objectives:** Specific goals that define what
+constitutes quality for the project.
+* **Quality Standards:** Industry or organizational
+standards that the project must adhere to.
+* **Roles and Responsibilities:** Defines who is responsible
+for various quality management tasks.
+* **Quality Control Activities:** Specific activities and
+processes to monitor and control the quality of project
+outputs.
+* **Quality Assurance Processes:** Steps to ensure quality is
+being built into project processes.
+* **Tools and Techniques:** The methodologies and tools
+used for ensuring quality.
+
+```txt
+Depending on the industry, you would have different components in your project quality management plan.
+Now you might have a project quality plan for a health care project, or for a software development
+or for a refinery.
+
+These quality plans might look different in the form of contents in this plan, but the general idea is same
+```
+
+```txt
+In addition to that, the project quality plan will have the QA activities as well, and quality assurance
+activities typically would include monitoring the KPIs, the quality performance indicators, doing
+some type of audits on the project, having the audit plan, all those type of activities would also
+be addressed in the project quality plan.
+Once again, the content of this plan will depend on your industry.
+```
