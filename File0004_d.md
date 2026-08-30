@@ -519,3 +519,141 @@ number of aliens sighting, even though this graph might be right. But then this 
 
 Think technically as well.
 ```
+
+## 4w Artifacts - Quality Reports
+
+```txt
+From the list of artifacts which are given in the PMBoK seventh edition, we selected ten of them.
+If you look at the actual PMBoK, the Project Management body of knowledge, each of these items would
+
+have been covered in 3 or 4 lines only.
+But what we did here is we went deeper into that.
+
+We put some practical perspective to this, and we just looked at those items which are more relevant
+to the project quality managers.
+
+So as a project quality manager, I'm sure you will have to create a quality report.
+This report could be an internal report which goes to your internal management.
+Or this quality report could be an external report which you are expected to submit to the client.
+```
+
+### Introduction to Quality Reports
+
+* **Definition**: Quality Reports are formal
+documentation presenting quality
+management activities' results.
+
+* **Purpose**: To communicate information about
+quality performance, such as progress, trends,
+and areas requiring attention.
+
+```txt
+The quality report is the formal documentation presenting the activity results.
+So whatever activities you are performed during the period, that's what you report in the quality report.
+
+And the report could include quality, performance, progress, trends and other areas which require
+attention. That's what goes into a quality report.
+```
+
+### Components of Quality Reports
+
+> And once again this will all depend on the industry. This will all depend on the project which you are executing. Earlier also we said that each of these requirements you need to tailor according to the requirements of the project.
+
+* **Quality Metrics:** Data and statistics related to quality
+objectives and performance.
+* **Quality Audits Findings:** Results and recommendations
+from quality audits.
+* **Process Improvements:** Information on process
+improvement initiatives, including implementations
+and outcomes.
+* **Corrective Actions:** Details on corrective actions taken
+in response to identified quality issues.
+* **Validation and Verification Activities:** Reports on
+validation and verification activities, ensuring
+deliverables meet quality requirements.
+
+```txt
+Once again, this is just an indicative list.
+The components of quality report will depend on your area your project.
+
+So this completes the list of artifacts which we were expected to discuss as a part of Project Quality
+Management.
+
+And with this we complete this course on the project Quality Management.
+```
+
+## 4x - Course Conclusion
+
+```txt
+Take this course as just the beginning.
+As the project quality manager, you might want to deepen your understanding of various quality tools.
+Quality tools, including the seven basic quality tools or even the advanced analytical tools.
+That's something you should be focusing on going forward.
+```
+
+```txt
+Another important thing is here.
+We looked at the project from the quality point of view only.
+Broaden your horizon.
+
+Look at other aspects of the project as well.
+
+Understand how quality integrates with other things such as the scope schedule, risk management.
+That will give you a better understanding of quality.
+
+And then as a project quality manager, your focus would be on continuous improvement, improving whatever you do.
+```
+
+```txt
+As a next step My thought is that whatever you have learned, see that how you can apply that in your real project life.
+That will give you a better understanding of how these things apply into the project.
+And then in addition to learning this, you might want to think about some external certifications.
+Organizations such as the American Society for quality offers various certificates such as CA Certified
+Quality Auditor, Certified Quality Engineer, Cmco, and many other certifications.
+
+So you might want to consider those external certifications because these are globally recognized and
+
+these certificates will add a lot of value to your professional life.
+```
+
+## Next Step
+
+* **Reflection on Learning:** Reflect on how they can
+apply the knowledge and skills gained in their
+professional roles.
+* **Certification:** Pursue relevant certifications (e.g.,
+PMP, Six Sigma) to further validate your project
+quality management expertise.
+* **Continuous Learning:** Stay updated with evolving
+practices in project quality management and
+engage in lifelong learning.
+* **Thank You:** For your active participation and
+dedication to mastering project quality
+management principles.
+
+```txt
+And keep learning.
+
+Because learning is an integral part of quality management.
+In my professional life of 35 years in project quality management, I have never felt that I know everything.
+I always felt that there is a lot and a lot of things to learn.
+
+So keep learning because that's the key part of a project quality manager.
+And with this, I thank you for joining me in this course and I wish you a great success as a project quality manager.
+```
+
+## Quiz
+
+![alt text](image-68.png)
+
+![alt text](image-69.png)
+
+![alt text](image-70.png)
+
+![alt text](image-71.png)
+
+![alt text](image-72.png)
+
+![alt text](image-73.png)
+
+![alt text](image-74.png)
