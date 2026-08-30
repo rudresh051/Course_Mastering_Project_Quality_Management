@@ -539,3 +539,121 @@ One is reduce the chance of that thing happening.
 And the second thing is if that happens, reduce the impact of that.
 So reducing the probability or reducing the impact, that's how you mitigate the threat.
 ```
+
+## 4l Methods - Value Stream Mapping
+
+```txt
+Now, value stream mapping is a method and the output of that is value stream map.
+So later on when we will be looking at the list of artifacts, then the value stream map will be one
+of the artifacts.
+```
+
+```txt
+Now let's understand what value stream mapping.
+Now value stream mapping is basically a visual tool, just like a flow chart, just to make sure that
+you understand the process properly.
+
+So what you do in flow chart is you list down that we do step number one, we do step number two, and
+
+we do step number three.
+That's what you do in a typical flow chart.
+```
+
+```txt
+But what you do on a value stream map is you use two things here the flow of material and the flow of
+information.
+Both are covered on the value stream map.
+
+Now what is the purpose?
+Why do we want to do that?
+
+As a project quality manager, you want to draw a value stream map to understand the process, how the
+material and information is flowing.
+By doing that, you can understand where are the wastes, where are the problems, where things could
+go wrong once you identify them, once you make some changes to them, then you come out with the future
+state map.
+```
+
+### Introduction to Value Stream Mapping
+
+* **Definition**: Value Stream Mapping is a visual
+tool used to analyze and design the flow of
+materials and information required to bring a
+product or service to a consumer.
+* **Purpose:** To identify waste in processes and
+to conceive a future state of operations that
+can drive significant improvements.
+* **Key Components:**
+  * Current State Map: A visual representation of the
+process as it currently is.
+  * Future State Map: A projection of the process after
+improvements are made.
+
+### Value Stream Mapping - Steps
+
+* Step 1: Select the Product/Service: Choose the
+product or service to be mapped.
+* Step 2: Map the Current State: Document all the
+steps currently involved in the value stream.
+* Step 3: Identify Waste: Look for inefficiencies such
+as delays, redundancies, or unnecessary steps.
+* Step 4: Design the Future State: Reorganize the
+value stream to reduce waste and improve flow.
+* Step 5: Create an Implementation Plan: Develop a
+plan to transition from the current state to the
+future state.
+
+Example -
+
+![alt text](image-57.png)
+
+> Above is used in Manufacturing Environment
+
+![alt text](image-58.png)
+
+> We came out with some understanding and we reduced the number of steps to two. By eliminating or joining two activities together, or maybe eliminating one of the activities. So that's how value stream map is used on the project. So that's how value stream map is used on the project.
+> Now we are left with one item to discuss. That is eight types of waste. Now when we have created the current state, we want to identify what are the wasteful activities.
+
+### The 8 Types of Wastes
+
+Acronym - D.O.W.N.T.I.M.E
+
+* **Defects**: Errors that require additional resources and time to fix. Example: Rework
+due to incorrect specifications.
+* **Overproduction**: Producing more than is needed or before it is needed. Example:
+Making excess inventory that leads to storage and spoilage costs.
+* **Waiting**: Idle time created when material, information, people, or equipment is
+not ready. Example: Delays due to approvals or long setup times.
+* **Non-Utilized Talent**: Underusing people's skills, talents, and knowledge. Example:
+Not involving experienced employees in problem-solving.
+* **Transportation:** Unnecessary movements of products and materials. Example:
+Frequent movement of materials between warehouses.
+* **Inventory Excess:** More materials, parts, or products in process than required.
+Example: Stockpiling raw materials "just in case."
+* **Motion:** Unnecessary movements by people. Example: Walking back and forth
+due to poor workstation layout.
+* **Excess Processing:** More work or higher quality than is required by the customer.
+Example: Over-engineering a product beyond customer needs or desires.
+
+```txt
+Excess processing or sometime also called as over processing.
+
+Over processing is doing something which client doesn't need that doing more than what client is expecting
+from you?
+You might call this as satisfying client, but sometimes client might not even notice that you are doing
+that extra effort.
+
+So that's basically a waste sometime.
+This is also called as gold plating doing something which is absolutely not necessary.
+Even client doesn't give any value to that.
+It just adds the cost to the project that is excess processing.
+```
+
+```txt
+So these are the eight types of wastes.
+Understanding them will help you in identifying that where all we can improve when you draw your current
+state value stream map.
+Look at the waste and come out with a future state value stream map.
+
+So this completes our discussion on value stream mapping.
+```
