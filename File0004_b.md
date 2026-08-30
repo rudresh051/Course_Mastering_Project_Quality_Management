@@ -239,3 +239,80 @@ that is also collected.
 And there is a continuous improvement mechanism to make sure that the new system stays.
 So this was the model of change management.
 ```
+
+### 4d Model - Tuckman Ladder
+
+* The Tuckman Ladder, also known as Tuckman's stages of
+group development, is a model that describes the stages a
+group goes through to become a high-performing team.
+* Proposed by Bruce Tuckman in 1965.
+* **Comprises five stages:** Forming, Storming, Norming,
+Performing, and Adjourning.
+* Recognizing and navigating through each stage of the
+Tuckman Ladder is essential for team success.
+* Each stage presents its unique challenges and
+opportunities.
+* Leaders and team members must adapt their approach as
+they progress through the stages to ensure a cohesive and
+high-performing team.
+
+* **Forming**:
+  * Team members meet and learn about the project.
+  * Uncertainty about roles and team objectives.
+
+```txt
+So here as a first step in the forming, they need to understand what this project is about, what the
+roles and responsibilities are.
+
+Many a times a kick off meeting on the project, which is internal kickoff and external kickoff, helps
+
+in passing through this phase faster, where team understand that what this project is, what their roles and responsibilities are.
+```
+
+* **Storming**:
+  * Conflicts arise around team dynamics and project direction.
+  * Members vie for influence; disagreements are common.
+
+* **Norming**:
+  * Team starts collaborating effectively.
+  * Clarity in roles and mutual respect develop.
+
+```txt
+So at the end of storming stage, all those disagreements are sorted out.
+Team agrees on a way to do things for this project, and that is basically the norming stage where team
+starts working collaboratively, effectively.
+
+And here there is a good clarity on roles and there is a mutual respect for each other.
+I will be doing this.
+You will be doing this.
+
+This is the approach we will do and let's do this project.
+```
+
+* **Performing**:
+  * Team operates efficiently with established processes.
+  * High interdependence, motivation, and shared vision.
+
+* **Adjourning**:
+  * Completion of the project; team prepares to disband.
+  * Reflection on achievements; potential feelings of closure.
+
+```txt
+Then the next stage will be adjourning.
+Adjourning was a step which was added later on.
+This is more relevant to the project environment, where the team works on a project and then gets disassembled.
+```
+```txt
+So that is a joining stage that once the project is completed, the team is disbanded.
+So each one goes back to their respective work areas or department, or they move on to the next project
+once the project objectives are achieved.
+So basically this is a reflection of achievement.
+And with this the project is closed.
+```
+
+```txt
+Understanding these steps.
+Understanding these stages as a quality manager will help you in understanding that what you need to
+do to make sure that the team reaches to the performing stage faster.
+So this was the team development model or the tuckman ladder.
+```
