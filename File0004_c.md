@@ -657,3 +657,57 @@ Look at the waste and come out with a future state value stream map.
 
 So this completes our discussion on value stream mapping.
 ```
+
+## 4m Methods - Lessons Learned
+
+* **Definition**: Lessons learned in project
+management are insights or knowledge
+gained from the experience of performing a
+project.
+* **Purpose**: To capture what worked well and
+what could be improved for future projects,
+enhancing organizational learning.
+* **Process**: Typically involves gathering input
+from team members throughout and at the
+end of a project.
+
+### Gathering Experience
+
+* **Conducting Sessions:** Hold meetings at project
+milestones and at completion to discuss
+successes and challenges.
+* **Inclusive Participation:** Involve all project
+stakeholders, including team members,
+management, and clients.
+* **Documentation:** Clearly document the
+findings in an accessible format for future
+reference.
+
+### Utilizing Experience
+
+* **Knowledge Sharing:** Share lessons across the
+organization to promote learning and
+improvement.
+* **Continuous Improvement:** Incorporate
+learnings into standard practices and future
+project plans.
+* **Cultural Reinforcement:** Foster a culture that
+values learning and continuous improvement.
+
+```txt
+One thing is that the organization should have a good culture of knowledge sharing, because remember
+that when it came to sharing experiences, people will not share experience if there is a chance of
+
+repercussion, for example, on this project, this went wrong because we made this mistake.
+And if because of sharing that experience, the team gets punished.
+Then definitely you can expect that nobody is going to share their negative experience.
+
+So whatever negative or positive experience team wants to share, those should be taken in a positive
+spirit.
+
+Those should be taken by the organization as an helpful activity.
+People should be encouraged to share negative or positive experiences without any fear.
+So I was talking about two ways of utilizing.
+So one way would be looking at those experiences previously and making plan of that.
+The second way of utilizing experience would be making sure that those experiences are built into your
+```
