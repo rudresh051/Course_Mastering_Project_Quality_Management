@@ -192,3 +192,78 @@ But the intent is same.
 
 It lists down all the tests and inspections which will be done as a part of quality control on the project.
 ```
+
+## 4r Artifacts - Affinity Diagram
+
+### Introduction to Affinity Diagram
+
+* **Definition**: An Affinity Diagram is a tool to
+organize large amounts of data into related
+groups based on their natural relationships.
+* **Purpose**: Helps synthesize large volumes of
+data by finding patterns and themes,
+particularly useful in brainstorming sessions.
+* **Application**: Commonly used in project
+management, business analysis, and quality
+improvement processes.
+
+```txt
+And now where from this data is coming, in most of the cases the data comes from a brainstorming session.
+So let's say if you are doing a brainstorming on any problem on the project.
+Supplier has delayed supplies, or there are defects or the welding defects are high.
+
+Or maybe there are some software issues.
+Whatever problem, you have to solve that problem, one thing which you might be doing is doing a brainstorming
+```
+
+### Creating an Affinity Diagram
+
+* **Step 1: Data Collection:** Gather a broad range of
+ideas or issues from project team members,
+usually through brainstorming.
+* **Step 2: Record Ideas:** Write each idea or issue on a
+sticky note or card.
+* **Step 3: Group Similar Ideas**: Allow team members
+to silently organize the notes into related groups
+on a large surface.
+* **Step 4: Create Group Headers:** Once ideas are
+grouped, discuss and agree on a header or title for
+each group that captures the essence of its
+content.
+
+### Affinity Diagram Example
+
+![alt text](image-59.png)
+
+```txt
+Let's look at an example.
+For example I'm creating online courses and I did a brainstorming session with my team that how can
+we improve our courses.
+
+So here are some of the ideas which came that we should add more quizzes.
+
+We should be to the point it should be interactive.
+We can add flash card and so on.
+```
+
+```txt
+Now dealing with these ideas is sometimes difficult.
+So what you want to do is you want to group them together so that you can deal with them as a group.
+```
+
+![alt text](image-60.png)
+
+### Benefits of Using Affinity Diagram
+
+* **Organizes Thoughts:** Helps in structuring and
+categorizing large, complex sets of ideas for better
+analysis.
+* **Encourages Participation:** Involves all team
+members, giving everyone a voice in the process.
+* **Reveals Relationships:** Uncovers hidden patterns
+and connections between ideas or issues.
+* **Aids Decision Making:** Provides a clearer
+understanding of a complex issue, facilitating more
+informed decision-making.
+
+## 4s Artifacts - Cause and Effect Diagram
