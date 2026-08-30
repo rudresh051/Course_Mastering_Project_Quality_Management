@@ -468,3 +468,54 @@ And that's the reason this was one of the seven basic quality tools which every 
 to understand to deal with the quality problems.
 So this was histogram.
 ```
+
+## 4v Artifacts - Scatter Diagram
+
+### Introduction to Scatter Diagram
+
+* **Definition**: A Scatter Diagram, also known as a
+Scatter Plot, is a graphical tool to display and
+assess the relationship between two
+variables.
+* **Purpose**: Helps identify the type and strength
+of the relationship between two variables,
+useful in hypothesis testing and data analysis.
+* **Application**: Widely used in statistics, quality
+control, and various scientific disciplines to
+explore correlations or causal relationships.
+
+```txt
+For example, let's take an example of ice cream sale and the temperature outside.
+How these things are connected.
+Do higher temperature or the hot weather lead to higher number of ice cream sale?
+
+We might want to investigate that relationship.
+
+In case of industrial scenario.
+We might want to see the relationship.
+Let's say we are using glue to join two pieces, and then we apply different level of pressure to make
+sure that these two things join together.
+So we put glue, and then we put pressure on these two points and see that how strong the joint is.
+So we might want to see the relationship between the strength of this joint and the pressure we apply for joining these two components.
+```
+
+### Interpreting Scatter Diagram
+
+![alt text](image-66.png)
+
+![alt text](image-67.png)
+
+```txt
+So the point here is that whenever you draw a scatterplot and you see that there is a relationship between
+two variables.
+Stop and think for a moment that is there any reason, is there any technical connection between these
+two?
+
+Because there is a possibility that you might end up doing scatter plot and you come out with a correlation
+between two variables, which in no way are connected to each other.
+And the example which you can see here is that the number of cheeseburger eaten directly affect the
+
+number of aliens sighting, even though this graph might be right. But then this thing does not make any sense.
+
+Think technically as well.
+```
