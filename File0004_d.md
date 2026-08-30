@@ -133,3 +133,62 @@ some type of audits on the project, having the audit plan, all those type of act
 be addressed in the project quality plan.
 Once again, the content of this plan will depend on your industry.
 ```
+
+## 4q Artifacts - Inspection and Test Plan
+
+### ITP - Introduction
+
+* **Definition**: An Inspection and Test Plan (ITP) is a
+comprehensive document detailing the inspection
+and testing requirements for specific project
+components or phases.
+* **Purpose**: Ensures quality control throughout the
+project by specifying how, when, and by whom
+inspections and tests will be performed.
+* **Key Components:** Scope of work, reference
+documents, inspection and test activities,
+acceptance criteria, responsible parties, and
+documentation requirements.
+
+```txt
+So test plan in case of a software industry, would be quite different from a typical inspection and
+test plan used in the construction industry.
+
+Since my experience is mostly in the construction industry.
+
+So let's talk about ITP, which is the inspection and test plan, which is a typical term used in the
+construction industry.
+```
+### Involvement of Parties
+
+* **Review Points:**
+  * Definition: Stages in the project where documentation or work processes are
+reviewed to ensure compliance with standards and specifications.
+  * Application: Includes reviewing design documents, quality plans, or specific
+procedures.
+
+* **Witness Points:**
+  * Definition: Specific points in the project where a client or their representative is
+invited to observe a test or inspection.
+  * Purpose: To assure that work is being carried out as per the agreed standards and
+procedures.
+  * Process: Notification is given in advance to allow for scheduling of the witness.
+
+* **Hold Points:**
+  * Definition: Critical points in the project workflow where work must not proceed
+until an inspection or test has been completed and approved.
+  * Significance: Ensures that critical quality checks are performed and approved
+before moving to the next phase of work.
+  * Management: Strict adherence to hold points is essential, and relevant authorities
+must document and approve deviations.
+
+```txt
+Software industry might not have this type of structure, which I have discussed here in the form of
+ITP or the inspection and test plan.
+So their inspection and test plan could be different.
+So each industry would have a different way of dealing with the test plan.
+
+But the intent is same.
+
+It lists down all the tests and inspections which will be done as a part of quality control on the project.
+```
