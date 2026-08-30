@@ -267,3 +267,97 @@ understanding of a complex issue, facilitating more
 informed decision-making.
 
 ## 4s Artifacts - Cause and Effect Diagram
+
+### Introduction to Cause and Effect Diagram
+
+* **Definition**: A Cause and Effect Diagram, also
+known as a Fishbone Diagram or Ishikawa
+Diagram, is a visual tool used for identifying
+and organizing possible causes of a problem.
+* **Purpose**: To systematically explore and depict
+all potential or real causes of a problem to
+identify root causes.
+* **Application**: Widely used in problem-solving
+processes, particularly in quality management
+and process improvement.
+
+![alt text](image-61.png)
+
+```txt
+It is also called as fishbone diagram because the shape of this diagram looks like fish bones.
+And this is also called as Ishikawa diagram because the quality Guru Ishikawa is considered to be the
+originator of this particular diagram
+```
+
+```txt
+The cause and effect diagram is a key diagram for doing the root cause analysis.
+So if you are doing a root cause analysis of a problem, then there is a good chance that you will be
+
+using this particular diagram, which is the cause and effect diagram, to understand what are the causes
+and sub causes of a problem.
+```
+
+### How to Create a Cause and Effect Diagram
+
+* **Step 1: Identify the Problem:** Clearly state the
+problem at the head of the diagram.
+* **Step 2: Determine Major Categories:** Decide on
+broad categories for potential causes (**common
+categories include Methods, Machines, Materials,
+People, Measurements, and Environment**).
+* **Step 3: Brainstorm Causes:** Engage the team in
+identifying specific factors that might contribute
+to the problem, placing these under the
+appropriate categories.
+* **Step 4: Analyze the Diagram:** Look for patterns or
+areas with a high concentration of causes, which
+can indicate key areas for further investigation.
+
+![alt text](image-62.png)
+
+```txt
+Now this is the head.
+Your problem statement goes in the head of the fish.
+So here in this particular example poor quality is my problem.
+```
+
+```txt
+So this particular fishbone diagram is just for the demonstration purpose.
+But instead of writing poor quality, here you will be writing the specific problem which you are dealing
+with.
+
+And then you consider the main factors.
+So in this particular example we consider the four main factors machine method management and people.
+```
+
+```txt
+And then as a part of brainstorming we came out with number of causes and sub causes.
+So when we were talking about machine somebody said that machine calibration could be a problem that
+might have led to poor quality.
+Somebody said that the capability of the machine might be the problem, and then the sub cause of capability
+will be the outdated technology and so on.
+```
+
+### Benefits and Best Practices
+
+* Benefits:
+  * Encourages thorough analysis of problems.
+  * Fosters teamwork and collective knowledge sharing.
+  * Visual format makes it easy to understand complex
+issues.
+
+* Best Practices:
+  * Involve team members from different areas of
+expertise.
+  * Keep the session focused and time-bound.
+  * Use the diagram as a starting point for deeper
+analysis, not an end in itself.
+
+```txt
+And whatever diagram you create that is basically just the beginning.
+It is not an end in itself.
+This is not something which is the final thing.
+This is just a starting point to create discussion and evaluate that what all potential causes could
+have contributed to the problem.
+So this was a fishbone diagram or the cause and effect diagram or the Ishikawa diagram.
+```
