@@ -423,3 +423,48 @@ of values (bins).
 management, statistics, and data analysis to
 identify patterns or trends in data.
 
+### Components of Histogram
+
+* **Bins**: The ranges of values into which data is grouped.
+Each bin represents an interval of values on the
+horizontal axis (X-axis).
+* **Frequency**: The number of data points in each bin,
+represented by the height of the bar on the vertical
+axis (Y-axis).
+* **X-Axis:** Represents the variable or data being analyzed.
+* **Y-Axis:** Shows the frequency or count of data within
+each bin.
+* **Bars:** Each bar in the histogram corresponds to a bin
+and its frequency.
+
+* Example
+
+![alt text](image-65.png)
+
+```txt
+So this gives a visual representation instead of looking at, let's say 205 hundred numbers.
+Now what I can do is I can just look at this one picture and this tells me the distribution of that
+data set.
+```
+
+### Interpretation of Histogram
+
+* **Identifying Trends:** Histograms can show if data is
+skewed to one side, has multiple peaks, or is
+uniformly distributed.
+* **Understanding Variability:** The spread of the bars
+can indicate the variability or consistency in the
+data.
+* **Comparing Data Sets:** Histograms can be used to
+compare different data sets or distributions.
+* **Application in Quality Control:** In quality
+management, histograms are used to analyze
+process performance and identify areas for
+improvement.
+
+```txt
+So this has a great application in quality control.
+And that's the reason this was one of the seven basic quality tools which every worker was expected
+to understand to deal with the quality problems.
+So this was histogram.
+```
