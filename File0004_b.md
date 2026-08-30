@@ -416,22 +416,22 @@ And the project manager is also compromising that okay, we will address those is
 That's a compromising.
 ```
 
-* Competing (High Assertiveness, Low Empathy)
+* **Competing** (High Assertiveness, Low Empathy)
   * Represents a power-oriented mode where one's own interests are pursued at
 the expense of others.
 
-* Collaborating (High Assertiveness, High Empathy)
+* **Collaborating** (High Assertiveness, High Empathy)
   * Involves working with others to find a solution that fully satisfies the concerns
 of both parties.
 
-* Compromising (Moderate Assertiveness, Moderate Empathy)
+* **Compromising** (Moderate Assertiveness, Moderate Empathy)
   * A middle-ground approach where each party gives up something to reach a
 mutually acceptable solution.
 
-* Avoiding (Low Assertiveness, Low Empathy)
+* **Avoiding** (Low Assertiveness, Low Empathy)
   * Involves withdrawing from or sidestepping the conflict altogether.
 
-* Accommodating (Low Assertiveness, High Empathy)
+* **Accommodating** (Low Assertiveness, High Empathy)
   * Opposite of competing, emphasizing the needs and concerns of the other
 party rather than one's own.
 
@@ -459,3 +459,35 @@ So depending on multiple factor, you might want to choose the right strategy for
   * Time and resources needed
 
 > So this completes our discussion on the models which we wanted to discuss as a part of project Quality Manager training.
+
+## Quiz
+
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
+![alt text](image-42.png)
+
+![alt text](image-43.png)
+
+![alt text](image-44.png)
+
+![alt text](image-45.png)
+
+![alt text](image-46.png)
+
+![alt text](image-47.png)
+
+![alt text](image-48.png)
+
+![alt text](image-49.png)
+
+![alt text](image-50.png)
+
+![alt text](image-51.png)
+
+![alt text](image-52.png)
