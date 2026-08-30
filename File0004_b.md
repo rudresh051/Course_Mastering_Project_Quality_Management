@@ -316,3 +316,146 @@ Understanding these stages as a quality manager will help you in understanding t
 do to make sure that the team reaches to the performing stage faster.
 So this was the team development model or the tuckman ladder.
 ```
+
+## 4e Model - Conflict Resolution
+
+![alt text](image-35.png)
+
+```txt
+Let's think of this in the terms of quality manager and the project manager.
+
+So I means I'm the project quality manager.
+And you means the person in front of me is the project manager.
+Now, there might be conflict.
+
+Now what sort of a conflict which we might have as a project quality manager.
+Let's take a scenario where we have an audit planned this month and we want to conduct the audit, but
+then the project manager says that no, you cannot conduct audit this month.
+
+Move it by another two months because there is an important deliverable which we have to issue to the
+client.
+
+So we cannot do audit because that will be distraction to the team.
+Okay, that's a conflict.
+```
+
+**Important**
+
+```txt
+So as a project quality manager, you will have to deal with multiple conflicts where your requirement
+and the other person requirements differ.
+That's what conflict is.
+
+Basically, it's a balance between your interest and my interest.
+My interest is represented by assertiveness.
+
+I assert my interest and your interest.
+
+That means the interest of other party is shown by the empathy that I take care of other person's interest
+as well.
+```
+
+
+```txt
+So based on these two dimensions, a conflict could be put into a two by two matrix.
+Let's look at that.
+So based on the empathy and assertiveness here we have a two by two matrix.
+```
+
+![alt text](image-36.png)
+
+```txt
+Here I is basically the quality manager and you is the person in front of me, which is the project
+manager.
+
+So depending on whose interest we are covering here, we have a two by two matrix.
+```
+
+1. **Avoiding**
+
+> Avoiding is basically low empathy and low assertiveness. Basically I lose. You lose. Neither my interest is covered nor your interest is covered. So you might want to use avoid strategy where things are not important.Things really do not matter on a small trivial matters. You don't want to have a conflict there. You might want to go for avoiding as a strategy.
+
+2. **Competing**
+
+> On the other hand, if I look at this strategy, which is competing, competing is high on assertiveness. That means I'm taking care of my interests. So basically I win and it is low on empathy. So basically that means you lose so I win. So here I'm competing for my interest, I'm fighting for my interest. And I want other party to lose. That's basically competing where my interest is more important than other parties interest.
+
+3. **Accomodating**
+
+> Accommodating is high on empathy and low on assertiveness. Basically, I'm not pushing my interest, I'm on losing side. So basically I will say I lose, you win. I'm compromising on my situation, on my stand, and I'm allowing other party to win. So you might want to use this as well at certain times where you accommodate other party's interest.
+
+4. **Collaborating**
+
+```txt
+Coming to the fourth strategy, which is collaborating.
+Collaborating is basically working together.
+You win, I win, I take care of your interest as well as my interest together, since this is high
+on empathy and high on assertiveness.
+
+So I win.
+You win.
+
+This would be, I think, the most preferred strategy where you want to resolve an issue or a conflict where both parties interest is covered.
+```
+![alt text](image-37.png)
+
+```txt
+In between these four boxes.
+In the middle you have compromising.
+Compromising is basically the middle ground where you compromise a little bit, other party compromises
+a little bit, and you reach to a conclusion.
+```
+
+```txt
+Let's take an example of, let's say that equipment, which was at the supplier, which had quality
+issue, and the project manager wants to ship that.
+So we might want to have a compromising strategy where we might take an undertaking from the supplier
+that the supplier will come to the site and correct all those deficiencies, or maybe they will pay
+for those deficiencies and we might get that corrected.
+So here basically I'm compromising a little bit that I'm allowing the defective equipment to be shipped.
+And the project manager is also compromising that okay, we will address those issues here at site.
+That's a compromising.
+```
+
+* Competing (High Assertiveness, Low Empathy)
+  * Represents a power-oriented mode where one's own interests are pursued at
+the expense of others.
+
+* Collaborating (High Assertiveness, High Empathy)
+  * Involves working with others to find a solution that fully satisfies the concerns
+of both parties.
+
+* Compromising (Moderate Assertiveness, Moderate Empathy)
+  * A middle-ground approach where each party gives up something to reach a
+mutually acceptable solution.
+
+* Avoiding (Low Assertiveness, Low Empathy)
+  * Involves withdrawing from or sidestepping the conflict altogether.
+
+* Accommodating (Low Assertiveness, High Empathy)
+  * Opposite of competing, emphasizing the needs and concerns of the other
+party rather than one's own.
+
+```txt
+So we have five strategies here competing, collaborating, compromising, avoiding and accommodating.
+
+Depending on whether we are looking at high or low assertiveness and high or low empathy.
+Now there are multiple factors which will play when selecting the right strategy.
+
+So it might depend on the value of the issue, how important that issue is to you, because you don't
+want to keep on fighting for every small issue.
+So you need to see that what is more important.
+So depending on that, you might want to choose the right strategy.
+
+If you understand what are the consequences of that.
+That also will help you in choosing the right strategy.
+And sometimes you will see that what time and resources you have to deal with that conflict.
+
+So depending on multiple factor, you might want to choose the right strategy for conflict resolution.
+```
+
+* **Factors in selecting the approach:**
+  * Value of the issue
+  * Understanding the consequences
+  * Time and resources needed
+
+> So this completes our discussion on the models which we wanted to discuss as a part of project Quality Manager training.
