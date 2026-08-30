@@ -389,11 +389,81 @@ So what you might want to do is understand that internal and external failure ar
 So you need to avoid them, particularly the external failure.
 And if you spend a little bit more money on prevention.
 That will give you a good return in reducing your internal and external failure.
+
 Generally, you should be spending more money on prevention and appraisal, but out of these two, also
 spend more money on prevention so that the defect doesn't happen in the beginning.
 So you take all the necessary steps from the beginning.
+
 Have the right processes systems in place, have the right people in place, provide the right training
 to them.
 That way you can prevent the bigger losses because of the cost of quality.
 ```
 
+## 4j Methods - Root Cause Analysis
+
+### Introduction to Root Cause Analysis
+
+* **Definition:** Root Cause Analysis is a systematic
+process to identify the underlying causes of
+faults or problems.
+* **Objective**: To determine the primary cause of a
+problem so that corrective actions can prevent
+recurrence rather than simply addressing the
+symptoms.
+* **Importance in Projects:** RCA is critical in project
+management to ensure that issues are
+resolved so that they do not adversely affect
+future project outcomes.
+
+###  Root Cause Analysis - Process
+
+1. Identify the Problem: Clearly define the issue and
+understand its impact on the project.
+2. Gather Data: Collect data about the problem's
+symptoms, timeline, and affected areas.
+3. Analyze Data: Use RCA tools to examine the data and
+trace the problem's pathways to its origin.
+4. Identify Root Causes: Determine the underlying causes
+that must be addressed to solve the problem.
+5. Develop Action Plan: Create a strategy to mitigate the
+root causes and implement solutions.
+6. Monitor Results: Review the effectiveness of corrective
+actions and ensure the problem does not recur.
+
+### Root Cause Analysis - Tools
+
+* **The Five Whys:** A simple questioning technique that explores
+cause-and-effect relationships to pinpoint the root cause.
+* **Fishbone Diagram (Ishikawa):** A diagram that categorizes
+potential causes of problems to visually display their root causes.
+* **8D Approach:** A comprehensive problem-solving process with
+eight steps: DO to D7, which stands for:
+  * DO: Prepare and Emergency Response
+  * D1: Form a Team
+  * D2: Define and Describe the Problem
+  * D3: Develop Interim Containment Plan
+  * D4: Determine, Identify, and Verify Root Causes and Escape Points
+  * D5: Develop Permanent Corrections (PCs) for Problem/Nonconformity
+  * D6: Implement and Validate Corrective Actions
+  * D7: Prevent Recurrence
+  * D8: Recognize Contributions
+
+### 5 Whys Example
+
+![alt text](image-56.png)
+
+> And once again, this in itself is a much bigger topic which could be a separate course here.
+
+## 4k Methods - SWOT Analysis
+
+### Introduction to SWOT Analysis
+
+* **Definition**: SWOT Analysis is a strategic
+planning technique to identify Strengths,
+Weaknesses, Opportunities, and Threats.
+* **Purpose**: To create a comprehensive overview
+of the internal and external factors.
+* **Application**: Used by project managers to
+strategize for quality improvements, risk
+mitigation, and leveraging opportunities for
+enhancing project outcomes.
